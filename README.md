@@ -44,8 +44,7 @@ This project is a Task Management Application that allows users to perform CRUD 
 - Future improvements could include implementing user authentication, adding search and filter functionalities for tasks, and deploying the application to a hosting platform for accessibility.
 
 *Screenshots*
-![Application Screenshot](https://drive.google.com/file/d/1JH7bJ6_-hZ-Aad9LD87DZiTusYE4AVhk/view?usp=sharing)
-![Application Screenshot](https://drive.google.com/file/d/1IBugYB4e0rhCbSN3obLmGavMunf6VNjf/view?usp=sharing)
+[Application Screenshot](https://drive.google.com/file/d/1JH7bJ6_-hZ-Aad9LD87DZiTusYE4AVhk/view?usp=sharing)
 *Live Demo:*
 [Link to Live Demo](#) (Replace with actual live demo link)
 
