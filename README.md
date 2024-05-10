@@ -30,11 +30,13 @@ This project is a Task Management Application that allows users to perform CRUD 
 
 *Setup Instructions:*
 1. Clone the repository from the provided Git link.
-2. Navigate to the project directory.
-3. Install dependencies for both front-end and back-end using npm install.
+2. Navigate to the task-manager-api backend project directory.
+3. Open Command Prompt and install the backend dependencies by running npm install.
 4. Start the server by running node server.js.
-5. Run the React app using npm start.
-6. Access the application via a web browser at http://localhost:3000.
+5. Navigate to the task-manager-app frontend project directory.
+6. Open Command Prompt and install the frontend dependencies by running npm install.
+7. Run the React app using npm start.
+8. Access the application via a web browser at http://localhost:3000.
 
 *Additional Notes:*
 - Error handling is implemented for both front-end and back-end components to provide a smooth user experience.
