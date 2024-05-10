@@ -44,5 +44,3 @@ This project is a Task Management Application that allows users to perform CRUD 
 *Live Demo:*
 [Link to Live Demo](#) (Replace with actual live demo link)
 
-*Source Code:*
-[Link to GitHub Repository](#) (Replace with actual GitHub repository link)
